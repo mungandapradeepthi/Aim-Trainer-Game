@@ -1,11 +1,16 @@
 # projects-1
+
 1.AIM TRAINER GAME
+
   It is a python programming language based project which is used for beginners to practice their shooting ability where the user need to click on the dot that is being randomly shwing on the screen to increase their points
+  
 **  #ABSTRACT**
+
     The Objective of this project is to create a shooting game that offers an immersive and challenging experience for gamers to practice and improve their shooting aim, the game will simulate real-life shooting scenarios, requiring players to demonstrate precise aiming skills and quick reaction time, this game is developed using pygame module package available in python, this game requires only the basic mouse cursor movement and the left click of the mouse, the game is rendered on a basic 2d-environment,the player or user need to shoot/perhaps say that he/she should click on the target, the target being there is a random dot being rendered randomly provided on the screen, the game starts off with a random dot rendered on the screen the user need to click on the dot to kill the target or the dot, and the dot render in an random place on the screen and the user need to click on it and soon, the game code contain the related code to render the display function and for the code to render the target or the dot and the user input action which being the mouse left click. Overall, the aim trainer game will provide an enjoyable and challenging experience for gamer’s while also serving as a valuable tool to enhance their shooting aim ability. 
 **Keywords**: Aim Trainer Game(Beginners), Math, Pygame, Random. 
 
 #INTRODUCTION
+
 This project aims to provide player with a training platform that focuses on improving their aim and accuracy in first-person shooter games. This game is specifically designed to help players to hone their skills in aiming and shooting at targets, with the aim improving their performance in online multiplayer games. Aim trainer games have become increasingly popular among esports player and competitive gamers, as they offer a way to practice and improve their skills in a safe and controlled environment. 
 
 Software Requirements are: 
