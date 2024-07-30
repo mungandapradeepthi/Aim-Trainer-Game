@@ -27,4 +27,5 @@ Storage: Any type of storage is doable such as a harddrive(HDD) or an solid stat
 on a 128GB minimum storage drive. 
 
 #CONCLUSION
+
 The game we created is an “Aim Trainer” where the player’s objective is to click on randomly appearing circles on the screen. The game features a main menu with options to play, access settings, or quit the game. Within the game, the player’s score increases by 10 points each time they successfully click on a circle. The score is displayed on the screen, and if the score exceeds 100, it is labeled as a high score. The game also includes background music and a sound effect when clicking on a circle. 
