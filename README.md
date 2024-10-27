@@ -1,4 +1,4 @@
-# projects-1
+# Aim Trainer Game
 
 1.AIM TRAINER GAME
 
